@@ -36,7 +36,7 @@ table, th, td {
 </style>
 </head>
 <body>
-<table style="width:100%">
+<table style="width:50%">
   <tr>
     <th>Operating Systems</th>
     <td>Windows 10, Linux- Ubuntu, Centos 7</td> 
