@@ -29,7 +29,7 @@ An enthusiastic aspiring DevOps engineer who is a self-starter and capable to us
 
 <table style="width:100%">
   <tr>
-    <td>Operating System</td>
+    <td>Operating System ---></td>
     <td>Windows 10, Linux- Ubuntu, Centos 7</td>
   </tr>
   <tr>
