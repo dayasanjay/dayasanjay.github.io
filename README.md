@@ -27,18 +27,8 @@ An enthusiastic aspiring DevOps engineer who is a self-starter and capable to us
 
 ## Technical Skills
 
-●	Operating System                 		:    Windows 10, Linux- Ubuntu, Centos 7<br>
-●	Version control system        		  :    GIT, GITHUB<br>
-●	Programming Languages   	         	:    Pyhon and C (Basics)<br>
-●	C.I/C.D Tool 			        	       	:    Jenkins<br>
-●	Build Tool                       		:    Maven<br>
-●	Testing Tool           		          :    Selenium<br>
-●	Web servers 			                	:    Tomcat, Nginx<br>
-●	Containerization Tools 		          :    Docker, Docker Hub<br>
-●	Orchestration Tools 		            :    Docker Swarm,Kubernetes<br>
-●	Monitering Tool   		            	:    Nagios, Prometheus<br>
-●	Configuration Management Tools     	:    Ansible, Chef<br>
-●	Cloud Technologies		            	:    AWS EC2, GCP
+| Operating Systems | Windows 10, Linux- Ubuntu, Centos 7 |
+| Version control system | GIT, GITHUB |
 
 ---
 
