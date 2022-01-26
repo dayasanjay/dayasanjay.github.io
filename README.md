@@ -31,7 +31,7 @@ An enthusiastic aspiring DevOps engineer who is a self-starter and capable to us
 <head>
 <style>
 table, th, td {
-  border: 1px solid black;
+  border: 3px solid black;
 }
 </style>
 </head>
