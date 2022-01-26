@@ -38,52 +38,52 @@ table, th, td {
 <body>
 <table style="width:100%">
   <tr>
-    <td>Operating Systems</td>
-    <th>Windows 10, Linux- Ubuntu, Centos 7</th> 
+    <th>Operating Systems</th>
+    <td>Windows 10, Linux- Ubuntu, Centos 7</td> 
   </tr>
   <tr>
-    <td>Version control system</td>
-    <th>GIT, GITHUB</th>
+    <th>Version control system</th>
+    <td>GIT, GITHUB</td>
   </tr>
   <tr>
-    <td>Programming Languages</td>
-    <th>Pyhon and C (Basics)</th>
+    <th>Programming Languages</th>
+    <td>Pyhon and C (Basics)</td>
   </tr>
   <tr>
-    <td>C.I/C.D Tool</td>
-    <th>Jenkins</th>
+    <th>C.I/C.D Tool</th>
+    <td>Jenkins</td>
   </tr>
   <tr>
-    <td>Build Tool</td>
-    <th>Maven</th>
+    <th>Build Tool</th>
+    <td>Maven</td>
   </tr>
   <tr>
-    <td>Testing Tool</td>
-    <th>Selenium</th>
+    <th>Testing Tool</th>
+    <td>Selenium</td>
   </tr>
   <tr>
-    <td>Webservers</td>
-    <th>Tomcat, Nginx</th>
+    <th>Webservers</th>
+    <td>Tomcat, Nginx</td>
   </tr>
   <tr>
-    <td>Containerization Tools</td>
-    <th>Docker, Docker Hub</th>
+    <th>Containerization Tools</th>
+    <td>Docker, Docker Hub</td>
   </tr>
   <tr>
-    <td>Orchestration Tools</td>
-    <th>Docker Swarm, Kubernetes</th>
+    <th>Orchestration Tools</th>
+    <td>Docker Swarm, Kubernetes</td>
   </tr>
   <tr>
-    <td>Monitering Tool</td>
-    <th>Nagios, Prometheus</th>
+    <th>Monitering Tool</th>
+    <td>Nagios, Prometheus</td>
   </tr>
   <tr>
-    <td>Configuration Management Tools</td>
-    <th>Ansible, Chef</th>
+    <th>Configuration Management Tools</th>
+    <td>Ansible, Chef</td>
   </tr>
   <tr>
-    <td>Cloud Technologies</td>
-    <th>AWS EC2, GCP</th>
+    <th>Cloud Technologies</th>
+    <td>AWS EC2, GCP</td>
   </tr>
 </table>
 
