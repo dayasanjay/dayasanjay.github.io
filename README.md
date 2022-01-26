@@ -31,7 +31,7 @@ An enthusiastic aspiring DevOps engineer who is a self-starter and capable to us
 <head>
 <style>
 table, th, td {
-  border: 10px solid black;
+  border: 5px solid black;
 }
 </style>
 </head>
@@ -43,23 +43,52 @@ table, th, td {
 
 <table style="width:100%">
   <tr>
-    <th>(1) Operating Systems</th>
-    <td>windows</td> 
+    <td>Operating Systems</td>
+    <th>Windows 10, Linux- Ubuntu, Centos 7</th> 
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>Version control system</td>
+    <th>GIT, GITHUB</th>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>Programming Languages</td>
+    <th>Pyhon and C (Basics)</th>
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
+    <td>C.I/C.D Tool</td>
+    <th>Jenkins</th>
+  </tr>
+  <tr>
+    <td>Build Tool</td>
+    <th>Maven</th>
+  </tr>
+  <tr>
+    <td>Testing Tool</td>
+    <th>Selenium</th>
+  </tr>
+  <tr>
+    <td>Webservers</td>
+    <th>Tomcat, Nginx</th>
+  </tr>
+  <tr>
+    <td>Containerization Tools</td>
+    <th>Docker, Docker Hub</th>
+  </tr>
+  <tr>
+    <td>Orchestration Tools</td>
+    <th>Docker Swarm,Kubernetes</th>
+  </tr>
+  <tr>
+    <td>Monitering Tool</td>
+    <th>Nagios, Prometheus</th>
+  </tr>
+  <tr>
+    <td>Configuration Management Tools</td>
+    <th>Ansible, Chef</th>
+  </tr>
+  <tr>
+    <td>Cloud Technologies</td>
+    <th>AWS EC2, GCP</th>
   </tr>
 </table>
 
