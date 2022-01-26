@@ -19,6 +19,7 @@ An enthusiastic aspiring DevOps engineer who is a self-starter and capable to us
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" alt="html" width="80" height="80">
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.png" alt="html" width="90" height="90">
   <img src="https://www.nagios.org/wp-content/uploads/2015/06/Nagios-Logo.jpg" alt="html" width="80" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" alt="html" width="80" height="80">
   
 </p>
 
