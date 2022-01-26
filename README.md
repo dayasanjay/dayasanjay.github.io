@@ -31,7 +31,7 @@ An enthusiastic aspiring DevOps engineer who is a self-starter and capable to us
 <head>
 <style>
 table, th, td {
-  border: 5px solid black;
+  border: 1px solid black;
 }
 </style>
 </head>
@@ -76,7 +76,7 @@ table, th, td {
   </tr>
   <tr>
     <td>Orchestration Tools</td>
-    <th>Docker Swarm,Kubernetes</th>
+    <th>Docker Swarm, Kubernetes</th>
   </tr>
   <tr>
     <td>Monitering Tool</td>
