@@ -2,10 +2,9 @@
 
 An enthusiastic aspiring DevOps engineer who is a self-starter and capable to use technical skills for the organizational development in Software Engineering has enhanced my proficiency in developing web applications and looking forward to work in a competitive environment that enhances overall learning.
 
-
 ---
 
-## Skills
+## Skill Set
 
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="html" width="40" height="80">
@@ -25,27 +24,24 @@ An enthusiastic aspiring DevOps engineer who is a self-starter and capable to us
 
 ---
 
-## Experience
+## Technical Skills
 
-### **SENIOR FRONTEND DEVELOPER**
-### MIRO
-
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
-
-### **FRONTEND DEVELOPER**
-### Booking.com
-
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
-
-### **SOFTWARE DEVELOPER**
-### NAGARRO PVT, LTD
-
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
+●	Operating System                 		:    Windows 10, Linux- Ubuntu, Centos 7
+●	Version control system        		  :    GIT, GITHUB
+●	Programming Languages   	         	:    Pyhon and C (Basics)
+●	C.I/C.D Tool 			        	       	:    Jenkins
+●	Build Tool                       		:    Maven
+●	Testing Tool           		          :    Selenium
+●	Web servers 			                	:    Tomcat, Nginx
+●	Containerization Tools 		          :    Docker, Docker Hub
+●	Orchestration Tools 		            :    Docker Swarm,Kubernetes
+●	Monitering Tool   		            	:    Nagios, Prometheus
+●	Configuration Management Tools     	:    Ansible, Chef
+●	Cloud Technologies		            	:    AWS EC2, GCP
 
 ---
 
 ## Education
-
 ### **GURU NANAK DEV UNIVERSITY**
 ### BTech Computer Science (2012- 2016)
 GPA 8.75
