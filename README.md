@@ -27,9 +27,7 @@ An enthusiastic aspiring DevOps engineer who is a self-starter and capable to us
 
 ## Technical Skills
 
-●	Operating System                 		:    Windows 10, Linux- Ubuntu, Centos 7
-
----
+●	Operating System                 		:    Windows 10, Linux- Ubuntu, Centos 7<br>
 ●	Version control system        		  :    GIT, GITHUB
 
 ---
