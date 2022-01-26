@@ -46,7 +46,6 @@ An enthusiastic aspiring DevOps engineer who is a self-starter and capable to us
 
 ---
 ●	Web servers 			                	:    Tomcat, Nginx
-
 ---
 ●	Containerization Tools 		          :    Docker, Docker Hub
 
