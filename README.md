@@ -29,19 +29,16 @@ An enthusiastic aspiring DevOps engineer who is a self-starter and capable to us
 
 <table style="width:100%">
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>Operating System</td>
+    <td>Windows 10, Linux- Ubuntu, Centos 7</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>Version control system</td>
+    <td>GIT, GITHUB</td>
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
+    <td>Programming Languages</td>
+    <td>Pyhon and C (Basics)</td>
   </tr>
 </table>
 
