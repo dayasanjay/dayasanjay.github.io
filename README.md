@@ -67,9 +67,6 @@ table, th, td {
 </body>
 </html>
 
-
----
-
 ## Education
 ### **Rajiv Gandhi University of Knowledge and Technologies - RK Valley**
 ### B.Tech - Mechanical Engineering (2013- 2017)
