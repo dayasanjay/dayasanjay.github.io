@@ -97,7 +97,7 @@ GPA 7.95
 <b>*</b> Ability to create projects in <b>Git</b>, set configuration for Git, setting Git environment variables.<br>
 <b>*</b> Experienced in using Continuous Integration tools like <b>Jenkins</b>.<br>
 <b>*</b> Hands on using <b>Maven</b> build tools such as build a project as per maven required life cycle.<br>
-<b>*</b> Hands on experience in configuration management tools like <b>Ansible<b>.<br>
+<b>*</b> Hands on experience in configuration management tools like <b>Ansible</b>.<br>
 <b>*</b> Hands on playbooks for configuration and application deployments.<br>
 <b>*</b> Good Exposure to Containerization tools like <b>Docker</b> Engine.<br>
 <b>*</b> Experienced in using Orchestration tools like <b>Kubernetes</b>.<br>
