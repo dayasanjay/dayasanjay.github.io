@@ -1,6 +1,6 @@
 ## Career Object
 
-An enthusiastic and aspiring DevOps engineer who is a self-starter and capable to use technical skills for the organizational development in Software Engineering has enhanced my proficiency in developing web applications and looking forward to work in a competitive environment that enhances overall learning.
+To pursue a challenging and professionally satisfying career opportunity, which will enable me to actualize and maximize my potential to produce peak performance, where my knowledge and experience can be shared and enriched.
 
 ---
 
@@ -106,6 +106,7 @@ GPA 7.95
 <b>*</b> Knowledge in all phases of software development life cycle from Analysis, Design, Development, testing and installation.<br>
 <b>*</b> Able to work in a startup environment and manage multiple projects in a fast - paced environment.<br>
 
+---
 ### My Contents
 <a href="https://dayasanjay.github.io/Linux/">Linux </a><br>
 <a href="https://dayasanjay.github.io/Git/">Git </a><br>
