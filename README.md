@@ -92,7 +92,11 @@ GPA 7.95
 
 ---
 
-### INTERESTS
-Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
-
-I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
+### My Contents
+https://dayasanjay.github.io/Linux/<br>
+https://dayasanjay.github.io/Git/<br>
+https://dayasanjay.github.io/Maven/<br>
+https://dayasanjay.github.io/jenkins/<br>
+https://dayasanjay.github.io/docker/<br>
+https://dayasanjay.github.io/Kubernetes/<br>
+https://dayasanjay.github.io/Ansible/<br>
