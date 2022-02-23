@@ -1,4 +1,4 @@
-## Career Object
+## Career Objective
 
 To pursue a challenging and professionally satisfying career opportunity, which will enable me to actualize and maximize my potential to produce peak performance, where my knowledge and experience can be shared and enriched.
 
