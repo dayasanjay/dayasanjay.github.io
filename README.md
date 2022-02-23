@@ -93,16 +93,16 @@ GPA 7.95
 ---
 
 ### Skill Summary
-Familiar with Amazon web services (AWS).<br>
-Ability to create projects in Git, set configuration for Git, setting Git environment variables.<br>
-Experienced in using Continuous Integration tools like Jenkins.<br>
-Hands on using Maven build tools such as build a project as per maven required life cycle.<br>
-Hands on experience in configuration management tools like Ansible.<br>
-Hands on playbooks for configuration and application deployments.<br>
-Good Exposure to Containerization tools like Docker Engine.<br>
-Experienced in using Orchestration tools like Kubernetes.<br>
-Excellent understanding of technical trends, architectures and highly motivated to keep myself updated with current events, technologies in the software industry.<br> 
-Exceptional learning skills, good at multitasking, hardworking, extensive knowledge in Design and Analysis, ability to achieve goals individually and also a great team player.<br>
+<b>*</b> Familiar with Amazon web services (AWS).<br>
+<b>*</b> Ability to create projects in Git, set configuration for Git, setting Git environment variables.<br>
+<b>*</b> Experienced in using Continuous Integration tools like Jenkins.<br>
+<b>*</b> Hands on using Maven build tools such as build a project as per maven required life cycle.<br>
+<b>*</b> Hands on experience in configuration management tools like Ansible.<br>
+<b>*</b> Hands on playbooks for configuration and application deployments.<br>
+<b>*</b> Good Exposure to Containerization tools like Docker Engine.<br>
+<b>*</b> Experienced in using Orchestration tools like Kubernetes.<br>
+<b>*</b> Excellent understanding of technical trends, architectures and highly motivated to keep myself updated with current events, technologies in the software industry.<br> 
+<b>*</b> Exceptional learning skills, good at multitasking, hardworking, extensive knowledge in Design and Analysis, ability to achieve goals individually and also a great team player.<br>
 Knowledge in all phases of software development life cycle from Analysis, Design, Development, testing and installation.<br>
 Able to work in a startup environment and manage multiple projects in a fast - paced environment.<br>
 
