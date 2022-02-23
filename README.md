@@ -103,8 +103,8 @@ GPA 7.95
 <b>*</b> Experienced in using Orchestration tools like Kubernetes.<br>
 <b>*</b> Excellent understanding of technical trends, architectures and highly motivated to keep myself updated with current events, technologies in the software industry.<br> 
 <b>*</b> Exceptional learning skills, good at multitasking, hardworking, extensive knowledge in Design and Analysis, ability to achieve goals individually and also a great team player.<br>
-Knowledge in all phases of software development life cycle from Analysis, Design, Development, testing and installation.<br>
-Able to work in a startup environment and manage multiple projects in a fast - paced environment.<br>
+<b>*</b> Knowledge in all phases of software development life cycle from Analysis, Design, Development, testing and installation.<br>
+<b>*</b> Able to work in a startup environment and manage multiple projects in a fast - paced environment.<br>
 
 ### My Contents
 <a href="https://dayasanjay.github.io/Linux/">Linux </a><br>
