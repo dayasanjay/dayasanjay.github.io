@@ -93,10 +93,10 @@ GPA 7.95
 ---
 
 ### My Contents
-https://dayasanjay.github.io/Linux/<br>
-https://dayasanjay.github.io/Git/<br>
-https://dayasanjay.github.io/Maven/<br>
-https://dayasanjay.github.io/jenkins/<br>
-https://dayasanjay.github.io/docker/<br>
-https://dayasanjay.github.io/Kubernetes/<br>
-https://dayasanjay.github.io/Ansible/<br>
+<a href="https://dayasanjay.github.io/Linux/">Linux </a>
+<a href="https://dayasanjay.github.io/Git/">Git </a>
+<a href="https://dayasanjay.github.io/Maven/">Maven </a>
+<a href="https://dayasanjay.github.io/jenkins/">Jenkins </a>
+<a href="https://dayasanjay.github.io/docker/">Docker </a>
+<a href="https://dayasanjay.github.io/Kubernetes/">Kubernetes </a>
+<a href="https://dayasanjay.github.io/Ansible/">Ansible </a>
